@@ -33,11 +33,11 @@ global.footer = 'vams' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://www.youtube.com/channel/UC8DYWf8R-8B8m8-PR-lRNNQ'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'masterogenki@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
@@ -86,12 +86,12 @@ success: '_Done._',
 admin: '_Fitur Khusus Admin Group!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
 owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
+group: '_Fitur Digunakan Hanya di Group!_',
+private: '_Fitur Digunakan Hanya di Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
+wait: '_Tar Dlo Proses banh..._',
 error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+endLimit: '_kasian Limit Hariannya abis aowowakowa, Limit Akan Direset Setiap Jam 12_',
 }
 
 //—————「 Batas Akhir 」—————//
