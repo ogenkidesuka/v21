@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+jika ada bug atau error hubungi admin`
 }
 
 //—————「 List 」—————//
@@ -447,7 +447,7 @@ exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
 
-Hai kak ☺️ 
+Hai kak 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -456,8 +456,8 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
+  *≻* Sewa Bot 5k (1 minggu)
+  *≻* Sewa Bot 15k (1 bulan)
   *≻* Sewa Bot 25k (Permanen)
 
   *JADI BOT* 
@@ -466,7 +466,7 @@ Thanks!
   *≻* Jadi Bot + Owner 25k (Permanen)
 
   *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
+  *≻* Run Bot 10k (1 minggu)
   *≻* Run Bot 20k (1 bulan)
   *≻* Run Bot 25k (Permanen)
 
